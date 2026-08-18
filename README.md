@@ -71,12 +71,12 @@ Customer-level analysis revealed substantial differences in both product revenue
 
 ## Project Structure
 
-E-Commerce_Sales_Analysis.xlsx
-README.md
-dashboard.png
-sales-analysis.png
-prod-analysis1.png
-prod-analysis2.png
+- E-Commerce_Sales_Analysis.xlsx
+- README.md
+- dashboard.png
+- sales-analysis.png
+- prod-analysis1.png
+- prod-analysis2.png
 
 ## Project Screenshots
 
